@@ -7,5 +7,8 @@ Two methods are used here,
 
 I trained classifier only for learning purpose. Basic image processing steps give better result in this problem.
 
+# Input Image
 !["Image of Straws"](https://raw.githubusercontent.com/bansii1/ObjectCounting/master/strawImage.jpg )
+
+# Output Image
 !["Using Image Processing"](https://raw.githubusercontent.com/bansii1/ObjectCounting/master/usingImageProcessing.jpg)
