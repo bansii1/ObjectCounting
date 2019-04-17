@@ -7,5 +7,5 @@ Two methods are used here,
 
 I trained classifier only for learning purpose. Basic image processing steps give better result in this problem.
 
-![Alt text](strawImage.jpg?raw=true "Image of Straws")
-![Alt text](usingImageProcessing.jpg?raw=true "Using Image Processing")
+!["Image of Straws"](https://raw.githubusercontent.com/bansii1/ObjectCounting/master/strawImage.jpg )
+!["Using Image Processing"](https://raw.githubusercontent.com/bansii1/ObjectCounting/master/usingImageProcessing.jpg)
