@@ -8,7 +8,7 @@ Two methods are used here,
 I trained classifier only for learning purpose. Basic image processing steps give better result in this problem.
 
 # Input Image
-!["Image of Straws"](https://raw.githubusercontent.com/bansii1/ObjectCounting/master/strawImage.jpg&s=200)
+<img src="https://raw.githubusercontent.com/bansii1/ObjectCounting/master/strawImage.jpg" width = "40vw" height = "40vw">
 
 # Output Image
-!["Using Image Processing"](https://raw.githubusercontent.com/bansii1/ObjectCounting/master/usingImageProcessing.jpg&s=200)
+<img src="https://raw.githubusercontent.com/bansii1/ObjectCounting/master/usingImageProcessing.jpg" width="40vw" height="40vw">
